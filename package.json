@@ -70,6 +70,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.3",
+    "firebase": "^8.8.1",
     "jquery": "^3.5.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
