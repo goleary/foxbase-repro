@@ -3,7 +3,7 @@
   "background": {
     "scripts": ["background.bundle.js"]
   },
-  "permissions": ["storage"],
+  "permissions": ["storage", "https://firestore.googleapis.com/"],
   "manifest_version": 2,
   "icons": {
     "16": "icon-16.png",
